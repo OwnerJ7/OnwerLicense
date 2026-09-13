@@ -1,9 +1,8 @@
-{
-  "licenses": [
-    {
-      "active": true,
-      "userId": 5819550352,
-      "groups": [902691755]
-    },
-  ]
-}
+[
+  {
+    "UserId": null,
+    "GroupId": 35712251,
+    "active": true,
+    "Comprador": "Tono Peruano"
+  }
+]
