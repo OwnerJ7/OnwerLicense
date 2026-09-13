@@ -1,5 +1,11 @@
 [
   {
+    "UserId": 5819550352,
+    "GroupId": null,
+    "active": true,
+    "Comprador": "Owen"
+  },
+  {
     "UserId": null,
     "GroupId": 35712251,
     "active": true,
