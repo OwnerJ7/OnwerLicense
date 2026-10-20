@@ -10,5 +10,11 @@
     "GroupId": 35712251,
     "active": true,
     "Comprador": "Tono Peruano"
+  },
+  {
+    "UserId": 8943847555,
+    "GroupId": null,
+    "active": true,
+    "Comprador": "Text"
   }
 ]
